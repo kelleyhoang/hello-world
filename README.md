@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+My name is Kelley and I'm addicted to coffee.
